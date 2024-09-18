@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>welcome</title>
+    <link rel="stylesheet" href="./#style.css">
+</head>
+
+<body style="background-image: url(./background.jpg);background-repeat: no-repeat;background-size: cover;">
+    <h1 style="color: white; font-style: italic; text-align: center;">INTRODUCTION</h1>
+    <hr style="border-color: brown;"><br>
+    <br>
+    <p style="color: white; font-style: italic; text-align: center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo enim magnam, cupiditate consectetur assumenda possimus dolores voluptatum unde labore est optio molestias suscipit vel, sequi aliquam autem facere voluptates. Officiis provident debitis necessitatibus cupiditate! Nam libero corrupti tempore voluptatem ullam, molestiae voluptatum ab ut! Reprehenderit assumenda unde quisquam exercitationem aspernatur necessitatibus! Obcaecati repudiandae atque inventore earum architecto doloremque quae assumenda nostrum tempore quam! Repellat praesentium debitis obcaecati vero expedita libero non beatae reiciendis dolore, provident numquam quae eveniet quam dolorem quas quidem ratione facilis illum dolorum asperiores repudiandae recusandae consequuntur. Et minus asperiores quaerat inventore ratione cumque dicta, iusto corrupti.</p><br>
+    <hr style="border-color: brown;"><br>
+<div style="display: flex;">
+    <p style="color: white; font-style: italic; text-align: center;font-size: larger;"> <br>
+        <br>
+        <br>
+        <br>
+        “Innovation distinguishes between a leader and a follower.”<br>
+        <br>
+        “Your time is limited, so don’t waste it living someone else’s life.”<br>
+        <br>
+        “You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.”<br>
+    </p>
+    <img src="./steve jobs.png" alt="random image">
+</div>  
+<hr style="border-color: brown;"><br>
+<br>
+<hr style="border-color: brown;"><br>
+<div style="display: flex;">
+    <div>
+    <p style="color: white; font-style: italic; text-align: center;font-size: larger;"> <br>
+        <br>
+        <br>
+        <br>
+        “The desire that guides me in all I do is the desire to harness the forces of nature to the service of mankind.”<br>
+        <br>
+        “Our senses enable us to perceive only a minute portion of the outside world.”<br>
+        <br>
+        “I hope this is the invention that will make war impossible.”<br>
+        <br>
+
+    </p>
+    </div>
+    <div>
+    <img src="./nicola_tesla-removebg-preview.png" alt="random image">
+    </div>
+</div>  
+<hr style="border-color: brown;"><br>
+<h1 style="color: white; font-style: italic; text-align: center;">FAMOUS FIGUERS AND THEIR DEATHS</h1>
+<hr>
+<br>
+<br>
+<br>
+<center>
+<table style="color: white; text-align: left;border-collapse: collapse;" border="2px" width="50%">
+    <tr style="text-align: center;">
+        <th>scientist name</th>
+        <th>date of birth</th>
+        <th>discovery</th>
+    </tr>
+    <tr>
+        <td>Albert Einstein</td>
+        <td>1879</td>
+        <td>
+            <ul>
+            <li>Theory of general relativity <br> </li>
+            <br>
+            <li>Discovery of the photoelectric effect <br></li>
+            <br>
+            <li>Quantum theory of light <br></li>
+            <br>
+            <li>The special theory of relativity <br></li>
+            <br>
+            <li>Avogadro’s number <br></li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td>Marie Curie</td>
+        <td>1867</td>
+        <td>
+            <ul>
+            <li>looking at uranium and the mysterious rays emitted by it.<br> </li>
+            <br>
+            <li>They discovered two elements; polonium (named after Curie’s native Poland) and radium. <br></li>
+            <br>
+            </ol>
+        </td>
+
+    </tr>
+</table>
+</center>
+</body>
+
+</html>
